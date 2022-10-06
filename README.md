@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cobra2054
+- 👋 Hi, I’m @kevin 
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning Linux systems
 - 💞️ I’m looking to collaborate on my team
